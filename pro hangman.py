@@ -1,4 +1,4 @@
-#original by Melvin Chia, i.e. The Silly Coder
+#original by Melvin Chia, AKA The Silly Coder
 
 import random
 import os
