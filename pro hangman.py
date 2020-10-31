@@ -1,3 +1,5 @@
+#original by Melvin Chia, i.e. The Silly Coder
+
 import random
 import os
 
