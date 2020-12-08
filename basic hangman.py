@@ -1,3 +1,4 @@
+#This is a very basic hangman
 import os
 import random
 import string
